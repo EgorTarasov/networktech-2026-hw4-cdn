@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="760" viewBox="0 0 1250 760" font-family="Helvetica, Arial, sans-serif">
+<rect width="1250" height="760" fill="#ffffff"/><defs>
+<marker id="m808080" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 L3,5 z" fill="#808080"/></marker>
+<marker id="m0050EF" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 L3,5 z" fill="#0050EF"/></marker>
+<marker id="m000000" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 L3,5 z" fill="#000000"/></marker>
+</defs>
+<rect x="35" y="110" width="150" height="60" fill="#ffffff" stroke="#000000"/>
+<rect x="42" y="238" width="170" height="55" fill="#fff2cc" stroke="#d6b656"/>
+<rect x="48" y="640" width="152" height="60" fill="#ffffff" stroke="#000000"/>
+<rect x="55" y="512" width="170" height="55" fill="#fff2cc" stroke="#d6b656"/>
+<rect x="330" y="328" width="215" height="118" fill="#fff2cc" stroke="#d6b656"/>
+<rect x="760" y="95" width="225" height="95" fill="#d5e8d4" stroke="#82b366"/>
+<rect x="772" y="620" width="214" height="100" fill="#d5e8d4" stroke="#82b366"/>
+<rect x="1050" y="370" width="168" height="80" fill="#dae8fc" stroke="#6c8ebf"/>
+<polyline points="114.1,170.0 123.3,238.0" fill="none" stroke="#808080" stroke-width="1" stroke-dasharray="2 2" marker-start="url(#m808080)" marker-end="url(#m808080)"/>
+<polyline points="127.7,640.0 136.6,567.0" fill="none" stroke="#808080" stroke-width="1" stroke-dasharray="2 2" marker-start="url(#m808080)" marker-end="url(#m808080)"/>
+<polyline points="212.0,267.4 221.7,267.7 231.2,268.2 240.5,268.9 249.5,269.8 258.4,270.9 267.0,272.2 275.3,273.6 283.5,275.3 291.4,277.1 299.1,279.2 306.6,281.4 313.8,283.8 320.8,286.5 327.6,289.3 334.2,292.3 340.6,295.5 346.7,298.9 352.6,302.5 358.3,306.2 363.7,310.2 369.0,314.4 374.0,318.7 378.7,323.3 383.3,328.0" fill="none" stroke="#808080" stroke-width="1" stroke-dasharray="2 2" marker-start="url(#m808080)" marker-end="url(#m808080)"/>
+<polyline points="225.0,539.7 234.5,539.6 243.8,539.1 252.9,538.3 261.8,537.2 270.5,535.7 279.1,534.0 287.4,531.9 295.5,529.4 303.5,526.7 311.3,523.6 318.8,520.2 326.2,516.4 333.4,512.4 340.4,508.0 347.2,503.2 353.8,498.2 360.3,492.8 366.5,487.1 372.6,481.1 378.4,474.7 384.1,468.0 389.5,461.0 394.8,453.7 399.9,446.0" fill="none" stroke="#808080" stroke-width="1" stroke-dasharray="2 2" marker-start="url(#m808080)" marker-end="url(#m808080)"/>
+<polyline points="185.0,136.9 208.8,135.9 232.5,135.1 256.3,134.3 280.1,133.6 304.0,133.0 327.8,132.5 351.7,132.0 375.6,131.7 399.5,131.4 423.4,131.2 447.3,131.1 471.2,131.1 495.2,131.2 519.2,131.4 543.2,131.6 567.2,131.9 591.3,132.3 615.3,132.8 639.4,133.4 663.5,134.1 687.6,134.8 711.7,135.7 735.8,136.6 760.0,137.6" fill="none" stroke="#000000" stroke-width="1" marker-end="url(#m000000)"/>
+<polyline points="200.0,674.3 223.4,675.5 246.7,676.7 270.2,677.7 293.7,678.7 317.2,679.5 340.8,680.2 364.4,680.9 388.0,681.4 411.7,681.8 435.4,682.1 459.2,682.3 483.0,682.4 506.9,682.4 530.8,682.3 554.7,682.1 578.7,681.7 602.7,681.3 626.8,680.8 650.9,680.1 675.0,679.4 699.2,678.5 723.4,677.6 747.7,676.5 772.0,675.4" fill="none" stroke="#000000" stroke-width="1" marker-end="url(#m000000)"/>
+<polyline points="513.6,328.0 524.1,319.9 534.6,312.0 545.1,304.3 555.6,296.8 566.0,289.5 576.4,282.3 586.8,275.3 597.2,268.5 607.5,261.9 617.8,255.5 628.1,249.3 638.4,243.2 648.7,237.3 658.9,231.6 669.1,226.1 679.3,220.8 689.5,215.7 699.6,210.7 709.7,205.9 719.8,201.4 729.9,197.0 740.0,192.7 750.0,188.7 760.0,184.8" fill="none" stroke="#808080" stroke-width="1" stroke-dasharray="6 4" marker-end="url(#m808080)"/>
+<polyline points="510.0,446.0 521.6,455.4 533.2,464.6 544.7,473.7 556.2,482.5 567.7,491.2 579.0,499.6 590.4,507.9 601.6,516.0 612.9,523.9 624.0,531.6 635.2,539.2 646.2,546.5 657.2,553.7 668.2,560.6 679.1,567.4 690.0,574.0 700.8,580.4 711.5,586.6 722.2,592.7 732.9,598.5 743.4,604.2 754.0,609.6 764.5,614.9 774.9,620.0" fill="none" stroke="#808080" stroke-width="1" stroke-dasharray="6 4" marker-end="url(#m808080)"/>
+<polyline points="985.0,142.3 997.2,142.7 1008.8,143.8 1019.9,145.8 1030.5,148.5 1040.6,152.1 1050.2,156.4 1059.2,161.5 1067.8,167.5 1075.8,174.2 1083.3,181.7 1090.3,190.0 1096.8,199.1 1102.7,209.0 1108.1,219.6 1113.0,231.1 1117.4,243.4 1121.3,256.4 1124.7,270.3 1127.5,284.9 1129.9,300.3 1131.7,316.6 1133.0,333.6 1133.7,351.4 1134.0,370.0" fill="none" stroke="#0050EF" stroke-width="1" marker-end="url(#m0050EF)"/>
+<polyline points="986.0,670.0 998.1,669.6 1009.6,668.5 1020.7,666.6 1031.2,663.9 1041.2,660.5 1050.8,656.2 1059.7,651.3 1068.2,645.6 1076.2,639.1 1083.6,631.8 1090.6,623.8 1097.0,615.0 1102.9,605.5 1108.3,595.1 1113.2,584.1 1117.6,572.2 1121.4,559.6 1124.8,546.2 1127.6,532.1 1129.9,517.2 1131.7,501.6 1133.0,485.1 1133.7,468.0 1134.0,450.0" fill="none" stroke="#0050EF" stroke-width="1" marker-end="url(#m0050EF)"/>
+<text x="110.0" y="136.5" font-size="12" text-anchor="middle" fill="#000000">юзер A (Москва)</text>
+<text x="110.0" y="151.5" font-size="12" text-anchor="middle" fill="#000000">100.64.10.25</text>
+<text x="127.0" y="262.0" font-size="12" text-anchor="middle" fill="#000000">резолвер провайдера A</text>
+<text x="127.0" y="277.0" font-size="12" text-anchor="middle" fill="#000000">100.64.0.53 (кеширует)</text>
+<text x="124.0" y="666.5" font-size="12" text-anchor="middle" fill="#000000">юзер B (Новосибирск)</text>
+<text x="124.0" y="681.5" font-size="12" text-anchor="middle" fill="#000000">100.65.20.37</text>
+<text x="140.0" y="536.0" font-size="12" text-anchor="middle" fill="#000000">резолвер провайдера B</text>
+<text x="140.0" y="551.0" font-size="12" text-anchor="middle" fill="#000000">100.65.0.53 (кеширует)</text>
+<text x="437.5" y="368.5" font-size="12" text-anchor="middle" fill="#000000">GeoDNS ns1.example.com</text>
+<text x="437.5" y="383.5" font-size="12" text-anchor="middle" fill="#000000">cdn.example.com TTL 30:</text>
+<text x="437.5" y="398.5" font-size="12" text-anchor="middle" fill="#000000">Москва → 203.0.113.10</text>
+<text x="437.5" y="413.5" font-size="12" text-anchor="middle" fill="#000000">Новосибирск → 192.0.2.10</text>
+<text x="872.5" y="131.5" font-size="12" text-anchor="middle" fill="#000000">PoP MSK</text>
+<text x="872.5" y="146.5" font-size="12" text-anchor="middle" fill="#000000">203.0.113.10</text>
+<text x="872.5" y="161.5" font-size="12" text-anchor="middle" fill="#000000">кеш 60 сек</text>
+<text x="879.0" y="659.0" font-size="12" text-anchor="middle" fill="#000000">PoP NSK</text>
+<text x="879.0" y="674.0" font-size="12" text-anchor="middle" fill="#000000">192.0.2.10</text>
+<text x="879.0" y="689.0" font-size="12" text-anchor="middle" fill="#000000">кеш 60 сек (свой)</text>
+<text x="1134.0" y="399.0" font-size="12" text-anchor="middle" fill="#000000">origin</text>
+<text x="1134.0" y="414.0" font-size="12" text-anchor="middle" fill="#000000">origin.example.com</text>
+<text x="1134.0" y="429.0" font-size="12" text-anchor="middle" fill="#000000">198.51.100.10</text>
+<rect x="99.7" y="196.5" width="38.0" height="15" fill="#ffffff"/>
+<text x="118.7" y="207.7" font-size="11" text-anchor="middle" fill="#000000">1. A?</text>
+<rect x="113.2" y="596.0" width="38.0" height="15" fill="#ffffff"/>
+<text x="132.2" y="607.2" font-size="11" text-anchor="middle" fill="#000000">1. A?</text>
+<rect x="214.7" y="265.7" width="178.8" height="30" fill="#ffffff"/>
+<text x="304.1" y="277.3" font-size="11" text-anchor="middle" fill="#000000">2. A? (+ECS 100.64.10.0/24)</text>
+<text x="304.1" y="291.3" font-size="11" text-anchor="middle" fill="#000000">→ 203.0.113.10</text>
+<rect x="236.0" y="501.9" width="178.8" height="30" fill="#ffffff"/>
+<text x="325.4" y="513.5" font-size="11" text-anchor="middle" fill="#000000">2. A? (+ECS 100.65.20.0/24)</text>
+<text x="325.4" y="527.5" font-size="11" text-anchor="middle" fill="#000000">→ 192.0.2.10</text>
+<rect x="367.1" y="123.6" width="210.8" height="15" fill="#ffffff"/>
+<text x="472.5" y="134.8" font-size="11" text-anchor="middle" fill="#000000">3. HTTPS → 203.0.113.10 (TLS №1)</text>
+<rect x="387.0" y="674.9" width="198.0" height="15" fill="#ffffff"/>
+<text x="486.0" y="686.1" font-size="11" text-anchor="middle" fill="#000000">3. HTTPS → 192.0.2.10 (TLS №1)</text>
+<rect x="590.1" y="239.8" width="82.8" height="15" fill="#ffffff"/>
+<text x="631.5" y="250.9" font-size="11" text-anchor="middle" fill="#000000">health-check</text>
+<rect x="596.0" y="533.2" width="82.8" height="15" fill="#ffffff"/>
+<text x="637.4" y="544.3" font-size="11" text-anchor="middle" fill="#000000">health-check</text>
+<rect x="1021.7" y="211.7" width="172.4" height="15" fill="#ffffff"/>
+<text x="1107.9" y="222.9" font-size="11" text-anchor="middle" fill="#000000">4. промах → HTTPS (TLS №2)</text>
+<rect x="1021.2" y="589.3" width="172.4" height="15" fill="#ffffff"/>
+<text x="1107.4" y="600.5" font-size="11" text-anchor="middle" fill="#000000">4. промах → HTTPS (TLS №2)</text>
+<text x="26.0" y="31.0" font-size="16" fill="#000000" text-anchor="start">Вариант 2 — через DNS (GeoDNS)</text>
+<text x="764.0" y="77.0" font-size="12" fill="#FF0000" text-anchor="start">TLS №1 заканчивается тут</text>
+<text x="772.0" y="741.0" font-size="12" fill="#FF0000" text-anchor="start">TLS №1 заканчивается тут</text>
+<text x="1047.0" y="471.0" font-size="12" fill="#FF0000" text-anchor="start">TLS №2 заканчивается тут</text>
+<text x="567.0" y="376.0" font-size="11" fill="#000000" text-anchor="start">проверяет PoP каждые 10 с,</text>
+<text x="567.0" y="391.0" font-size="11" fill="#000000" text-anchor="start">упавший убирает из ответа</text>
+</svg>
